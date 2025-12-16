@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Age",
+    "dtype": "int64"
+  },
+  {
+    "name": "Sex",
+    "dtype": "bool"
+  },
+  {
+    "name": "RestingBP",
+    "dtype": "int64"
+  },
+  {
+    "name": "Cholesterol",
+    "dtype": "int64"
+  },
+  {
+    "name": "FastingBS",
+    "dtype": "bool"
+  },
+  {
+    "name": "MaxHR",
+    "dtype": "int64"
+  },
+  {
+    "name": "ExerciseAngina",
+    "dtype": "bool"
+  },
+  {
+    "name": "Oldpeak",
+    "dtype": "float64"
+  },
+  {
+    "name": "HeartDisease",
+    "dtype": "bool"
+  },
+  {
+    "name": "ChestPainType_ASY",
+    "dtype": "bool"
+  },
+  {
+    "name": "ChestPainType_ATA",
+    "dtype": "bool"
+  },
+  {
+    "name": "ChestPainType_NAP",
+    "dtype": "bool"
+  },
+  {
+    "name": "ChestPainType_TA",
+    "dtype": "bool"
+  },
+  {
+    "name": "RestingECG_LVH",
+    "dtype": "bool"
+  },
+  {
+    "name": "RestingECG_Normal",
+    "dtype": "bool"
+  },
+  {
+    "name": "RestingECG_ST",
+    "dtype": "bool"
+  },
+  {
+    "name": "ST_Slope_Down",
+    "dtype": "bool"
+  },
+  {
+    "name": "ST_Slope_Flat",
+    "dtype": "bool"
+  },
+  {
+    "name": "ST_Slope_Up",
+    "dtype": "bool"
+  }
+]
